@@ -16,3 +16,7 @@ tcpclnt-rs 127.0.0.1:1000
 ```
 
 If there is no argument, it will connect to 127.0.0.1:1000. Or you can customize to any.
+
+# What is this
+
+It is for a programable device using TCP.
